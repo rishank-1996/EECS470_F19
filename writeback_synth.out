@@ -1,0 +1,283 @@
+PC=bad main krenge, REG[          0][ 2]=         8
+PC=bad main krenge, REG[          1][ 3]=      8192
+PC=bad main krenge, REG[          0][ 3]=     10171
+PC=bad main krenge, REG[          0][ 3]= 666566656
+PC=bad main krenge, REG[          0][ 1]=     12288
+PC=bad main krenge, REG[          0][ 1]=     12006
+PC=bad main krenge, REG[          0][ 3]= 666578662
+PC=bad main krenge, REG[          1][ 1]=      4096
+PC=bad main krenge, REG[          0][ 1]=      2171
+PC=bad main krenge, REG[          0][ 3]=3001966592
+PC=bad main krenge, REG[          0][ 3]=3001968763
+PC=bad main krenge, REG[          1][ 1]=       176
+PC=bad main krenge, REG[          0][ 3]=3867652096
+PC=bad main krenge, REG[          0][ 3]=3867652272
+PC=bad main krenge, REG[          0][ 1]=       253
+PC=bad main krenge, REG[          0][ 3]=2276503552
+PC=bad main krenge, REG[          0][ 3]=2276503805
+PC=bad main krenge, REG[          1][ 4]=      4096
+PC=bad main krenge, REG[          0][ 4]=      2896
+PC=bad main krenge, REG[          0][ 4]=  11862016
+PC=bad main krenge, REG[          0][ 1]=      1267
+PC=bad main krenge, REG[          0][ 4]=  11863283
+PC=bad main krenge, REG[          0][ 1]=        45
+PC=bad main krenge, REG[          0][ 4]= 189812528
+PC=bad main krenge, REG[          0][ 4]= 189812541
+PC=bad main krenge, REG[          1][ 5]=         0
+PC=bad main krenge, REG[          0][ 5]=         1
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]=1032161256
+PC=bad main krenge, REG[          0][11]=1221973797
+PC=bad main krenge, REG[          0][12]=1806634897
+PC=bad main krenge, REG[          0][12]=1996447438
+PC=bad main krenge, REG[          0][13]=4214116758
+PC=bad main krenge, REG[          0][13]= 108962003
+PC=bad main krenge, REG[          0][ 2]=1338376327
+PC=bad main krenge, REG[          0][ 2]=1528188868
+PC=bad main krenge, REG[          1][11]=     18645
+PC=bad main krenge, REG[          0][12]=     30463
+PC=bad main krenge, REG[          1][13]=      1662
+PC=bad main krenge, REG[          0][14]=     23318
+PC=bad main krenge, REG[          1][ 1]=        61
+PC=bad main krenge, REG[          0][ 0]=       104
+PC=bad main krenge, REG[          0][ 5]=         2
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]=2393085108
+PC=bad main krenge, REG[          0][11]=2582897649
+PC=bad main krenge, REG[          0][12]=2674783533
+PC=bad main krenge, REG[          0][12]=2864596074
+PC=bad main krenge, REG[          0][13]=2079489218
+PC=bad main krenge, REG[          0][13]=2269301759
+PC=bad main krenge, REG[          0][ 2]=1368582915
+PC=bad main krenge, REG[          0][ 2]=1558395456
+PC=bad main krenge, REG[          1][11]=     39411
+PC=bad main krenge, REG[          0][12]=     43710
+PC=bad main krenge, REG[          1][13]=     34626
+PC=bad main krenge, REG[          0][14]=     23779
+PC=bad main krenge, REG[          1][ 1]=        77
+PC=bad main krenge, REG[          0][ 0]=       104
+PC=bad main krenge, REG[          0][ 5]=         3
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]=3499921728
+PC=bad main krenge, REG[          0][11]=3689734269
+PC=bad main krenge, REG[          0][12]=1952435081
+PC=bad main krenge, REG[          0][12]=2142247622
+PC=bad main krenge, REG[          0][13]= 361928110
+PC=bad main krenge, REG[          0][13]= 551740651
+PC=bad main krenge, REG[          0][ 2]=3425553471
+PC=bad main krenge, REG[          0][ 2]=3615366012
+PC=bad main krenge, REG[          1][11]=     56300
+PC=bad main krenge, REG[          0][12]=     32688
+PC=bad main krenge, REG[          1][13]=      8418
+PC=bad main krenge, REG[          0][14]=     55166
+PC=bad main krenge, REG[          1][ 1]=        93
+PC=bad main krenge, REG[          0][ 0]=       104
+PC=bad main krenge, REG[          1][ 5]=         4
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]=4089866636
+PC=bad main krenge, REG[          0][11]=4279679177
+PC=bad main krenge, REG[          0][12]=3249458853
+PC=bad main krenge, REG[          0][12]=3439271394
+PC=bad main krenge, REG[          0][13]=3054233690
+PC=bad main krenge, REG[          0][13]=3244046231
+PC=bad main krenge, REG[          0][ 2]=1462419515
+PC=bad main krenge, REG[          0][ 2]=1652232056
+PC=bad main krenge, REG[          1][11]=     65302
+PC=bad main krenge, REG[          0][12]=     52479
+PC=bad main krenge, REG[          1][13]=     49500
+PC=bad main krenge, REG[          0][14]=     25211
+PC=bad main krenge, REG[          1][ 1]=       109
+PC=bad main krenge, REG[          0][ 0]=       125
+PC=bad main krenge, REG[          1][ 5]=         5
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]=3636513176
+PC=bad main krenge, REG[          0][11]=3826325717
+PC=bad main krenge, REG[          0][12]=2338847361
+PC=bad main krenge, REG[          0][12]=2528659902
+PC=bad main krenge, REG[          0][13]=2339602630
+PC=bad main krenge, REG[          0][13]=2529415171
+PC=bad main krenge, REG[          0][ 2]= 899064567
+PC=bad main krenge, REG[          0][ 2]=1088877108
+PC=bad main krenge, REG[          1][11]=     58385
+PC=bad main krenge, REG[          0][12]=     38584
+PC=bad main krenge, REG[          1][13]=     38595
+PC=bad main krenge, REG[          0][14]=     16614
+PC=bad main krenge, REG[          1][ 1]=       125
+PC=bad main krenge, REG[          0][ 0]=       104
+PC=bad main krenge, REG[          1][ 5]=         6
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]=3665894756
+PC=bad main krenge, REG[          0][11]=3855707297
+PC=bad main krenge, REG[          0][12]=2958494493
+PC=bad main krenge, REG[          0][12]=3148307034
+PC=bad main krenge, REG[          0][13]= 375532274
+PC=bad main krenge, REG[          0][13]= 565344815
+PC=bad main krenge, REG[          0][ 2]=3400732787
+PC=bad main krenge, REG[          0][ 2]=3590545328
+PC=bad main krenge, REG[          1][11]=     58833
+PC=bad main krenge, REG[          0][12]=     48039
+PC=bad main krenge, REG[          1][13]=      8626
+PC=bad main krenge, REG[          0][14]=     54787
+PC=bad main krenge, REG[          1][ 1]=       141
+PC=bad main krenge, REG[          0][ 0]=       104
+PC=bad main krenge, REG[          1][ 5]=         7
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]=1813942512
+PC=bad main krenge, REG[          0][11]=2003755053
+PC=bad main krenge, REG[          0][12]= 480410745
+PC=bad main krenge, REG[          0][12]= 670223286
+PC=bad main krenge, REG[          0][13]=1847620318
+PC=bad main krenge, REG[          0][13]=2037432859
+PC=bad main krenge, REG[          0][ 2]= 963798191
+PC=bad main krenge, REG[          0][ 2]=1153610732
+PC=bad main krenge, REG[          1][11]=     30574
+PC=bad main krenge, REG[          0][12]=     10226
+PC=bad main krenge, REG[          1][13]=     31088
+PC=bad main krenge, REG[          0][14]=     17602
+PC=bad main krenge, REG[          1][ 1]=       157
+PC=bad main krenge, REG[          0][ 0]=       104
+PC=bad main krenge, REG[          1][ 5]=         8
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]=4133359676
+PC=bad main krenge, REG[          0][11]=  28204921
+PC=bad main krenge, REG[          0][12]=4247227029
+PC=bad main krenge, REG[          0][12]= 142072274
+PC=bad main krenge, REG[          0][13]=1116906634
+PC=bad main krenge, REG[          0][13]=1306719175
+PC=bad main krenge, REG[          0][ 2]=2327034795
+PC=bad main krenge, REG[          0][ 2]=2516847336
+PC=bad main krenge, REG[          1][11]=       430
+PC=bad main krenge, REG[          0][12]=      2167
+PC=bad main krenge, REG[          1][13]=     19938
+PC=bad main krenge, REG[          0][14]=     38404
+PC=bad main krenge, REG[          0][ 1]=     38420
+PC=bad main krenge, REG[          1][ 0]=       104
+PC=bad main krenge, REG[          0][ 5]=         9
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          1][11]=3774760776
+PC=bad main krenge, REG[          0][11]=3964573317
+PC=bad main krenge, REG[          0][12]= 798372209
+PC=bad main krenge, REG[          0][12]= 988184750
+PC=bad main krenge, REG[          0][13]=3890531318
+PC=bad main krenge, REG[          0][13]=4080343859
+PC=bad main krenge, REG[          0][ 2]=1983836519
+PC=bad main krenge, REG[          0][ 2]=2173649060
+PC=bad main krenge, REG[          1][11]=     60494
+PC=bad main krenge, REG[          0][12]=     15078
+PC=bad main krenge, REG[          1][13]=     62261
+PC=bad main krenge, REG[          0][14]=     33167
+PC=bad main krenge, REG[          1][ 1]=     38436
+PC=bad main krenge, REG[          0][ 0]=       104
+PC=bad main krenge, REG[          1][ 5]=        10
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]=1942200852
+PC=bad main krenge, REG[          0][11]=2132013393
+PC=bad main krenge, REG[          0][12]=3947703565
+PC=bad main krenge, REG[          0][12]=4137516106
+PC=bad main krenge, REG[          0][13]=2012656930
+PC=bad main krenge, REG[          0][13]=2202469471
+PC=bad main krenge, REG[          0][ 2]=2860556771
+PC=bad main krenge, REG[          0][ 2]=3050369312
+PC=bad main krenge, REG[          1][11]=     32531
+PC=bad main krenge, REG[          0][12]=     63133
+PC=bad main krenge, REG[          1][13]=     33607
+PC=bad main krenge, REG[          0][14]=     46544
+PC=bad main krenge, REG[          1][ 1]=     38452
+PC=bad main krenge, REG[          0][ 0]=       104
+PC=bad main krenge, REG[          1][ 5]=        11
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]=4215557280
+PC=bad main krenge, REG[          0][11]= 110402525
+PC=bad main krenge, REG[          0][12]=1593178473
+PC=bad main krenge, REG[          0][12]=1782991014
+PC=bad main krenge, REG[          0][13]=3582454798
+PC=bad main krenge, REG[          0][13]=3772267339
+PC=bad main krenge, REG[          0][ 2]= 788932895
+PC=bad main krenge, REG[          0][ 2]= 978745436
+PC=bad main krenge, REG[          1][11]=      1684
+PC=bad main krenge, REG[          0][12]=     27206
+PC=bad main krenge, REG[          1][13]=     57560
+PC=bad main krenge, REG[          0][14]=     14934
+PC=bad main krenge, REG[          1][ 1]=     38468
+PC=bad main krenge, REG[          0][ 0]=       104
+PC=bad main krenge, REG[          1][ 5]=        12
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]=1567896300
+PC=bad main krenge, REG[          0][11]=1757708841
+PC=bad main krenge, REG[          0][12]=3202404997
+PC=bad main krenge, REG[          0][12]=3392217538
+PC=bad main krenge, REG[          0][13]= 488881338
+PC=bad main krenge, REG[          0][13]= 678693879
+PC=bad main krenge, REG[          0][ 2]=1035576091
+PC=bad main krenge, REG[          0][ 2]=1225388632
+PC=bad main krenge, REG[          1][11]=     26820
+PC=bad main krenge, REG[          0][12]=     51761
+PC=bad main krenge, REG[          1][13]=     10356
+PC=bad main krenge, REG[          0][14]=     18697
+PC=bad main krenge, REG[          1][ 1]=     38484
+PC=bad main krenge, REG[          0][ 0]=       104
+PC=bad main krenge, REG[          1][ 5]=        13
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]= 166789368
+PC=bad main krenge, REG[          0][11]= 356601909
+PC=bad main krenge, REG[          0][12]=   2143329
+PC=bad main krenge, REG[          0][12]= 191955870
+PC=bad main krenge, REG[          0][13]=3486331686
+PC=bad main krenge, REG[          0][13]=3676144227
+PC=bad main krenge, REG[          0][ 2]=2933779415
+PC=bad main krenge, REG[          0][ 2]=3123591956
+PC=bad main krenge, REG[          1][11]=      5441
+PC=bad main krenge, REG[          0][12]=      2929
+PC=bad main krenge, REG[          1][13]=     56093
+PC=bad main krenge, REG[          0][14]=     47662
+PC=bad main krenge, REG[          1][ 1]=     38500
+PC=bad main krenge, REG[          0][ 0]=       104
+PC=bad main krenge, REG[          1][ 5]=        14
+PC=bad main krenge, REG[          0][ 6]=         1
+PC=bad main krenge, REG[          0][11]=4061012676
+PC=bad main krenge, REG[          0][11]=4250825217
+PC=bad main krenge, REG[          0][12]=1013406461
+PC=bad main krenge, REG[          1][12]=     56093
+PC=bad main krenge, REG[          0][13]=2255256489
+PC=bad main krenge, REG[          1][13]=2445069030
+PC=bad main krenge, REG[          0][ 2]=2603787598
+PC=bad main krenge, REG[          1][ 2]=2793600139
+PC=bad main krenge, REG[          0][11]=     64862
+PC=bad main krenge, REG[          1][12]=         0
+PC=bad main krenge, REG[          0][13]=     37308
+PC=bad main krenge, REG[          1][14]=     42626
+PC=bad main krenge, REG[          0][ 1]=     38516
+PC=bad main krenge, REG[          1][ 0]=       104
+PC=bad main krenge, REG[          0][ 5]=        15
+PC=bad main krenge, REG[          1][ 6]=         1
+PC=bad main krenge, REG[          0][11]=  68894047
+PC=bad main krenge, REG[          1][11]= 258706588
+PC=bad main krenge, REG[          0][12]= 490026540
+PC=bad main krenge, REG[          0][12]= 679839081
+PC=bad main krenge, REG[          0][13]=4007463109
+PC=bad main krenge, REG[          0][13]=4197275650
+PC=bad main krenge, REG[          0][ 2]=4205926906
+PC=bad main krenge, REG[          0][ 2]= 100772151
+PC=bad main krenge, REG[          1][11]=      3947
+PC=bad main krenge, REG[          0][12]=     10373
+PC=bad main krenge, REG[          1][13]=     64045
+PC=bad main krenge, REG[          0][14]=      1537
+PC=bad main krenge, REG[          1][ 1]=     38532
+PC=bad main krenge, REG[          0][ 0]=       104
+PC=bad main krenge, REG[          1][ 5]=        16
+PC=bad main krenge, REG[          0][ 6]=         0
+PC=bad main krenge, REG[          0][11]=1791626075
+PC=bad main krenge, REG[          0][11]=1981438616
+PC=bad main krenge, REG[          0][12]=1188300856
+PC=bad main krenge, REG[          1][12]=     30234
+PC=bad main krenge, REG[          0][13]= 965121970
+PC=bad main krenge, REG[          0][13]=1154934511
+PC=bad main krenge, REG[          0][ 2]=2490796595
+PC=bad main krenge, REG[          0][ 2]=2680609136
+PC=bad main krenge, REG[          1][11]=1378113397
+PC=bad main krenge, REG[          0][12]=         0
+PC=bad main krenge, REG[          1][13]=     17622
+PC=bad main krenge, REG[          0][14]=     40902
+PC=bad main krenge, REG[          1][ 1]=     38548
+PC=bad main krenge, REG[          0][ 0]=       168
+PC=bad main krenge, REG[          0][ 0]=        16
